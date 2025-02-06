@@ -57,21 +57,23 @@ Your frontend should now be running at http://localhost:3000/.
 
 ---
 
+## API Endpoints 🔌
 
-##  API Endpoints 🔌
-Endpoint	Method	Description
-/api/components/	GET	Fetch all components
-/api/vehicles/	GET	Fetch all vehicles
-/api/repairs/	GET	Fetch all repairs
-/api/revenue/	GET	Fetch revenue analytics
+| Endpoint         | Method | Description                  |
+|-----------------|--------|------------------------------|
+| `/api/components/` | GET    | Fetch all components        |
+| `/api/vehicles/`   | GET    | Fetch all vehicles          |
+| `/api/repairs/`    | GET    | Fetch all repairs           |
+| `/api/revenue/`    | GET    | Fetch revenue analytics     |
 
 ---
 
 ## Usage 🛠️
-Add vehicle components via Admin Panel or API.
-Register vehicles in the system.
-Log repairs and view revenue graphs.
-Monitor analytics to track service performance.
+
+- Add vehicle components via Admin Panel or API.
+- Register vehicles in the system.
+- Log repairs and view revenue graphs.
+- Monitor analytics to track service performance.
 
 ---
 
