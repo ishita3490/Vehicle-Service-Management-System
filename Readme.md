@@ -81,4 +81,5 @@ Monitor analytics to track service performance.
 <img src="images/img1.png" alt="Dashboard" width="400" />
 <img src="images/img2.png" alt="Dashboard" width="400" />
 <img src="images/img3.png" alt="Dashboard" width="400" />
+<img src="images/img4.png" alt="Dashboard" width="400" />
 
