@@ -16,7 +16,7 @@ The **Vehicle Service Management System** is a full-stack web application design
 ---
 
 ## Tech Stack 🛠️
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js
 - **Backend:** Django REST Framework (DRF)
 - **Database:** SQLite (for development) / PostgreSQL (for production)
 
