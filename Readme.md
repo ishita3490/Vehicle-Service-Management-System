@@ -78,7 +78,7 @@ Monitor analytics to track service performance.
 
 ## Here are some screenshots to my project:
 
-![Dashboard](images/img1.png)
+<img src="images/img1.png" alt="Dashboard" width="400" />
 ![Dashboard](images/img2.png)
 ![Dashboard](images/img3.png)
 
