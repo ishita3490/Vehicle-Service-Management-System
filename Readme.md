@@ -73,8 +73,12 @@ Register vehicles in the system.
 Log repairs and view revenue graphs.
 Monitor analytics to track service performance.
 
+---
 
 
+## Here are some screenshots to my project:
 
-
+![Dashboard](images/img1.png)
+![Dashboard](images/img2.png)
+![Dashboard](images/img3.png)
 
